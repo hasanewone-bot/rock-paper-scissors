@@ -9,3 +9,4 @@
 # Run the project
 `npm run start`
 "# rock-paper-scissors" 
+"# game" 
