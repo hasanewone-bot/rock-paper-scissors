@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rock-paper-scissors-react/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/rock-paper-scissors-react/static/js/main.8699bdbc.chunk.js",
+    "main.js.map": "/rock-paper-scissors-react/static/js/main.8699bdbc.chunk.js.map",
+    "runtime-main.js": "/rock-paper-scissors-react/static/js/runtime-main.50bcefbd.js",
+    "runtime-main.js.map": "/rock-paper-scissors-react/static/js/runtime-main.50bcefbd.js.map",
+    "static/js/2.ec5987c1.chunk.js": "/rock-paper-scissors-react/static/js/2.ec5987c1.chunk.js",
+    "static/js/2.ec5987c1.chunk.js.map": "/rock-paper-scissors-react/static/js/2.ec5987c1.chunk.js.map",
+    "index.html": "/rock-paper-scissors-react/index.html",
+    "precache-manifest.880374d69f857b308b71149a744ac8ea.js": "/rock-paper-scissors-react/precache-manifest.880374d69f857b308b71149a744ac8ea.js",
+    "service-worker.js": "/rock-paper-scissors-react/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/rock-paper-scissors-react/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.ec5987c1.chunk.js.LICENSE.txt": "/rock-paper-scissors-react/static/js/2.ec5987c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50bcefbd.js",
+    "static/js/2.ec5987c1.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.8699bdbc.chunk.js"
+  ]
+}
